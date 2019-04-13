@@ -28,9 +28,21 @@
 - github desktop 설치(https://desktop.github.com/)
 
 - 프로젝트 생성
-- project repository 생성
-- git page 생성 방법
 
+- project repository 생성
+  
+   메뉴 클릭 You repositories클릭 
+   ![](https://i.imgur.com/Prd0OMJ.png)
+
+   New 버튼 클릭
+   ![](https://i.imgur.com/4u83RYl.png)
+ 
+   작성하기
+   ![](https://i.imgur.com/qsG16W5.png)
+
+
+- git page 생성 방법
+    폴더 하나당 read me 하나 생성(폴더내용을 적어주면 좋다.)
 <br>
 <br>
 
@@ -51,8 +63,18 @@
 
 ### 5. sync 파일 동기화
 - 클론 (clone) - 프로젝트 가져오기
+  - 메뉴 - clone repository 클릭 
+  ![](https://i.imgur.com/mN9AV5e.png)
+
+  - 또는 주소를 불러서...
+  ![](https://i.imgur.com/Xcr1r5z.png)
+  
 - 커밋 (commit) - 가상서버 업데이트
+ ![](https://i.imgur.com/qqJS75V.png)
+
 - 푸시 (push) - 실서버 업데이트
+![](https://i.imgur.com/I8NyIeJ.png)
+
 - 풀 (pull) - 실서버 내려받기
 
 <br>
@@ -64,6 +86,7 @@
 <br>
 
 ### 1. 디바이스 지원 범위
+> 지원범위를 정하고 왜 그래야 하는지 문구를 넣어주는것이 좋다.
 - Mobile
 - Tablet
 - Desktop
@@ -77,7 +100,7 @@
 - [IE +](https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads)
 
 
-브라우저 지원 범위를 추가하고 타겟이 어느사이트로 많이 쓰고 윈도우 몇까지 쓰는지 아는것이 좋다. 대부분 공기업은 윈도우 8까지...
+>브라우저 지원 범위를 추가하고 타겟이 어느사이트로 많이 쓰고 윈도우 몇까지 쓰는지 아는것이 좋다. 대부분 공기업은 윈도우 8까지...
 왜이렇게 지원범위를 정하는지와 버전을 적어주는것이 좋다.
 <br>
 
@@ -95,7 +118,8 @@
     현재브랜드 컬러 +  추가할 컬러는 알려주는것이 좋다. 로고등의 추가되는것들을 표시해준다.
 
 - 타입스케치
--모눈종이 노트로 레이아웃 스케치를 해주는것이 좋다.
-이미지는 네모엑스
-글씨는 라인
-동영상의 모양등 배치아 레이아웃만 나타낸다.
+- 모눈종이 노트로 레이아웃 스케치를 해주는것이 좋다.
+
+- 이미지는 네모엑스 / 
+글씨는 라인 /
+동영상의 모양등 배치 레이아웃만 나타낸다.
