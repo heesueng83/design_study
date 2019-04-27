@@ -11,10 +11,10 @@
 ### 그리드시스템
  - 그리드시스템은 컬럼 (Columns), 거터 (Gutter), 마진 (Margin)으로 이루어져 있습니다.
  - 컬럼 구하는 공식 : 컬럼 폭 = ( 디바이스 중단점 너비 - ( 거터 폭 * ( 컬럼 수 - 1 )) / 컬럼 수
-
 <br>
 
 ![](https://i.imgur.com/7eTAIUG.png)
+[마크업](https://codepen.io/heeseung83/pen/yrEvzz)
 
 <br>
 
@@ -24,6 +24,8 @@
 - columns: 12cols
 - margin width:28px
 - column width:77px
+ [마크업](https://codepen.io/heeseung83/pen/vMbVNG)
+
 
 ### 레이아웃 중단점 설정 (Breakpoint)
 - Dasktop, Tablet, Mobile 등 중단점 기준 설정
@@ -39,6 +41,7 @@
 <br>
 
 ### 참고
+- [그리드 계산 사이트](http://gridcalculator.dk/)
 - [Device Metrics](https://material.io/tools/devices/)
 - [8-Point Grid System](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)
 - [반응형 프로젝트 진행 시 참고](https://i.imgur.com/UQWlHW3.png)
