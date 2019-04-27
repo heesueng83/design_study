@@ -14,6 +14,7 @@
 <br>
 
 ![](https://i.imgur.com/7eTAIUG.png)
+<br>
 [마크업](https://codepen.io/heeseung83/pen/yrEvzz)
 
 <br>
@@ -24,6 +25,7 @@
 - columns: 12cols
 - margin width:28px
 - column width:77px
+<br>
  [마크업](https://codepen.io/heeseung83/pen/vMbVNG)
 
 
