@@ -32,14 +32,17 @@
 ### 레이아웃 중단점 설정 (Breakpoint)
 - Dasktop, Tablet, Mobile 등 중단점 기준 설정
 
-<br>
-- Dasktop min-width 1200px
-- Tablet max-width 960px
 
 <br>
 
 ![](https://i.imgur.com/D43c5UQ.png)
 
+<br>
+
+####유니클로 레이아웃 중단점 설정
+
+- Dasktop min-width 1200px
+- Tablet max-width 960px
 <br>
 
 ### 참고
