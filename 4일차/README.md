@@ -18,8 +18,19 @@
 
 <br>
 
+#### 유니클로 그리드 셀계
+- max width: 1200px
+- Gutter width: 20px
+- columns: 12cols
+- margin width:28px
+- column width:77px
+
 ### 레이아웃 중단점 설정 (Breakpoint)
 - Dasktop, Tablet, Mobile 등 중단점 기준 설정
+
+<br>
+- Dasktop min-width 1200px
+- Tablet max-width 960px
 
 <br>
 
